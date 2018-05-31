@@ -1,0 +1,23 @@
+ul.sortable > li {
+    border: solid 1px #808080;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    cursor: move;
+    padding: 8px;
+    width: 200px;
+}
+
+.m-fieldset {
+	padding: 10px;
+	margin: 10px 0;
+	border: 1px dotted black;
+}
+
+.m-fieldset-template{
+    display:none;
+}
+
+#wp-admin-bar-new-post, #wp-admin-bar-new-page {
+    display: none;  
+}

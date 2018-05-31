@@ -1,0 +1,10 @@
+{
+    "require": {
+        "minicodemonkey/amazon-alexa-php": "^0.1.5",
+        "twilio/sdk": "^5.12",
+        "jwilsson/spotify-web-api-php": "^1.11",
+        "sqmk/phue": "^1.6",
+        "lusitanian/oauth": "^0.8.10",
+        "predis/predis": "^1.1"
+    }
+}

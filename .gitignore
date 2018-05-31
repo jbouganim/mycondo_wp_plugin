@@ -1,0 +1,6 @@
+node_modules/
+npm-debug.log
+vendor/
+# IDE temporary files. 
+*.swp
+.DS_Store
